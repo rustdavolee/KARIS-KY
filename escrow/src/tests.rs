@@ -63,6 +63,7 @@ mod history_pagination;
 mod init;
 mod integration;
 mod legal_hold;
+mod partial_settle_invariants;
 mod properties;
 mod properties_funding;
 mod read_only_invariant;
